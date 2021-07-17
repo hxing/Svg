@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+svg {
+  background: rgb(144, 141, 189);
+}
+
+circle {
+  cursor: pointer;
+}
